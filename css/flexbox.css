@@ -60,7 +60,7 @@
 }
 
 /*-- Versão para Mobile --*/
-@media (max-width: 768px) {
+@media (max-width: 640px) {
 
     .cabecalhoPrincipal-nav {
         flex-direction: column;
